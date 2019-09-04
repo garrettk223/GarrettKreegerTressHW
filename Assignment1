@@ -1,0 +1,23 @@
+/**
+Author: Garrett Kreeger
+Date: 9/2/19
+Description: Using print statements only, I am creating "trees" with different characters.
+The Characters that will be used are the backslash, forward slash, the pipe and the pound symbol.
+**/
+
+public class Assignment1
+{
+// Main Method
+  public static void main (String[] args)
+  {
+    // All the print statements that will make the tress with the characters.
+    System.out.println("   /#\\           /#\\           /#\\");
+    System.out.println("  /#|#\\         /#|#\\         /#|#\\");
+    System.out.println(" /##|##\\       /##|##\\       /##|##\\");
+    System.out.println("/###|###\\     /###|###\\     /###|###\\");
+    System.out.println("    |             |             |");
+    System.out.println("    |             |             |");  
+  }
+
+
+}
